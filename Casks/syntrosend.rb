@@ -24,7 +24,7 @@ cask "syntrosend" do
     and zero-knowledge encrypted SyntroCloud storage.
 
     Author: Rishav Kumar Jha
-    Publisher: SyntroSend
+    Publisher: Rishav Kumar Jha
     License: Freeware
     Copyright: Copyright (c) 2026 Rishav Kumar Jha
     Release Notes: https://syntrosend-app.web.app/changelog
