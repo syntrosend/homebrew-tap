@@ -51,7 +51,7 @@ brew uninstall --zap syntrosend
 | Field | Value |
 |---|---|
 | **Author** | Rishav Kumar Jha |
-| **Publisher** | SyntroSend |
+| **Publisher** | Rishav Kumar Jha |
 | **License** | Freeware |
 | **Copyright** | Copyright (c) 2026 Rishav Kumar Jha |
 | **Website** | [https://syntrosend-app.web.app](https://syntrosend-app.web.app) |
