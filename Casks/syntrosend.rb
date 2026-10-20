@@ -11,6 +11,11 @@ cask "syntrosend" do
 
   app "SyntroSend.app"
 
+  postflight do
+    system_command "xattr",
+                   args: ["-rd", "com.apple.quarantine", "#{appdir}/SyntroSend.app"]
+  end
+
   zap trash: [
     "~/Library/Application Support/com.syntrosend.desktop",
     "~/Library/Caches/com.syntrosend.desktop",
