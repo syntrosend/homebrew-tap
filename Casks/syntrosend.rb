@@ -11,7 +11,7 @@ cask "syntrosend" do
 
   app "SyntroSend.app"
 
-  postflight_steps do
+  postflight do
     system_command "xattr",
                    args: ["-rd", "com.apple.quarantine", "#{appdir}/SyntroSend.app"]
   end
