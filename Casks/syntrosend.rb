@@ -23,6 +23,11 @@ cask "syntrosend" do
     between Windows, macOS, Linux, and Android devices with high-speed local P2P transfer
     and zero-knowledge encrypted SyntroCloud storage.
 
+    Author: Rishav Kumar Jha
+    Publisher: SyntroSend
+    License: Freeware
+    Copyright: Copyright (c) 2026 Rishav Kumar Jha
     Release Notes: https://syntrosend-app.web.app/changelog
+    Support: https://syntrosend-app.web.app
   EOS
 end
